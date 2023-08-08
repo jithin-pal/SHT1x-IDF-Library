@@ -1,4 +1,4 @@
-# ESP-IDF-CPP-SH1x Sensor
+# ESP-IDF-CPP Sensor
 **Application Firmware with example**
 
 
